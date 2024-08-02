@@ -1,0 +1,97 @@
+2024-08-01 21:45:58,554 - INFO - Output log file initialized
+2024-08-01 21:45:58,555 - INFO - pyDeltaRCM version 2.1.4
+2024-08-01 21:45:58,555 - INFO - Python version 3.10.10 | packaged by conda-forge | (main, Mar 24 2023, 20:08:06) [GCC 11.3.0]
+2024-08-01 21:45:58,555 - INFO - Platform: Linux-6.8.0-1011-aws-x86_64-with-glibc2.39
+2024-08-01 21:45:58,555 - INFO - Setting up model configuration
+2024-08-01 21:45:58,555 - INFO - Model type is: VegetationModel
+2024-08-01 21:45:58,555 - INFO - Configuration variable `out_dir`: ./vegetation_output
+2024-08-01 21:45:58,555 - INFO - Configuration variable `verbose`: 1
+2024-08-01 21:45:58,555 - INFO - Configuration variable `seed`: None
+2024-08-01 21:45:58,555 - INFO - Configuration variable `Length`: 3000.0
+2024-08-01 21:45:58,555 - INFO - Configuration variable `Width`: 6000.0
+2024-08-01 21:45:58,555 - INFO - Configuration variable `dx`: 50
+2024-08-01 21:45:58,555 - INFO - Configuration variable `L0_meters`: 150
+2024-08-01 21:45:58,555 - INFO - Configuration variable `S0`: 0.00015
+2024-08-01 21:45:58,555 - INFO - Configuration variable `itermax`: 2
+2024-08-01 21:45:58,555 - INFO - Configuration variable `Np_water`: 500
+2024-08-01 21:45:58,555 - INFO - Configuration variable `u0`: 1.1
+2024-08-01 21:45:58,555 - INFO - Configuration variable `N0_meters`: 150
+2024-08-01 21:45:58,555 - INFO - Configuration variable `h0`: 4
+2024-08-01 21:45:58,555 - INFO - Configuration variable `hb`: None
+2024-08-01 21:45:58,555 - INFO - Configuration variable `H_SL`: 0.0
+2024-08-01 21:45:58,555 - INFO - Configuration variable `SLR`: 0.0
+2024-08-01 21:45:58,555 - INFO - Configuration variable `Np_sed`: 500
+2024-08-01 21:45:58,555 - INFO - Configuration variable `f_bedload`: 0.5
+2024-08-01 21:45:58,555 - INFO - Configuration variable `active_layer_thickness`: None
+2024-08-01 21:45:58,555 - INFO - Configuration variable `C0_percent`: 0.1
+2024-08-01 21:45:58,555 - INFO - Configuration variable `Csmooth`: 0.9
+2024-08-01 21:45:58,555 - INFO - Configuration variable `toggle_subsidence`: False
+2024-08-01 21:45:58,555 - INFO - Configuration variable `subsidence_rate`: 2e-09
+2024-08-01 21:45:58,555 - INFO - Configuration variable `start_subsidence`: 216000
+2024-08-01 21:45:58,555 - INFO - Configuration variable `save_eta_figs`: True
+2024-08-01 21:45:58,555 - INFO - Configuration variable `save_stage_figs`: False
+2024-08-01 21:45:58,555 - INFO - Configuration variable `save_depth_figs`: False
+2024-08-01 21:45:58,555 - INFO - Configuration variable `save_discharge_figs`: False
+2024-08-01 21:45:58,555 - INFO - Configuration variable `save_velocity_figs`: False
+2024-08-01 21:45:58,555 - INFO - Configuration variable `save_sedflux_figs`: False
+2024-08-01 21:45:58,555 - INFO - Configuration variable `save_sandfrac_figs`: False
+2024-08-01 21:45:58,555 - INFO - Configuration variable `save_figs_sequential`: True
+2024-08-01 21:45:58,555 - INFO - Configuration variable `save_metadata`: False
+2024-08-01 21:45:58,555 - INFO - Configuration variable `save_eta_grids`: True
+2024-08-01 21:45:58,555 - INFO - Configuration variable `save_stage_grids`: False
+2024-08-01 21:45:58,555 - INFO - Configuration variable `save_depth_grids`: False
+2024-08-01 21:45:58,555 - INFO - Configuration variable `save_discharge_grids`: False
+2024-08-01 21:45:58,555 - INFO - Configuration variable `save_velocity_grids`: True
+2024-08-01 21:45:58,555 - INFO - Configuration variable `save_sedflux_grids`: False
+2024-08-01 21:45:58,555 - INFO - Configuration variable `save_sandfrac_grids`: True
+2024-08-01 21:45:58,555 - INFO - Configuration variable `save_discharge_components`: False
+2024-08-01 21:45:58,555 - INFO - Configuration variable `save_velocity_components`: False
+2024-08-01 21:45:58,555 - INFO - Configuration variable `save_dt`: 86400
+2024-08-01 21:45:58,555 - INFO - Configuration variable `checkpoint_dt`: None
+2024-08-01 21:45:58,555 - INFO - Configuration variable `save_checkpoint`: True
+2024-08-01 21:45:58,555 - INFO - Configuration variable `resume_checkpoint`: False
+2024-08-01 21:45:58,555 - INFO - Configuration variable `omega_sfc`: 0.1
+2024-08-01 21:45:58,555 - INFO - Configuration variable `omega_flow`: 0.9
+2024-08-01 21:45:58,556 - INFO - Configuration variable `Nsmooth`: 10
+2024-08-01 21:45:58,556 - INFO - Configuration variable `theta_water`: 1.0
+2024-08-01 21:45:58,556 - INFO - Configuration variable `coeff_theta_sand`: 2.0
+2024-08-01 21:45:58,556 - INFO - Configuration variable `coeff_theta_mud`: 1.0
+2024-08-01 21:45:58,556 - INFO - Configuration variable `beta`: 3
+2024-08-01 21:45:58,556 - INFO - Configuration variable `sed_lag`: 1.0
+2024-08-01 21:45:58,556 - INFO - Configuration variable `coeff_U_dep_mud`: 0.3
+2024-08-01 21:45:58,556 - INFO - Configuration variable `coeff_U_ero_mud`: 1.5
+2024-08-01 21:45:58,556 - INFO - Configuration variable `coeff_U_ero_sand`: 1.05
+2024-08-01 21:45:58,556 - INFO - Configuration variable `alpha`: 0.1
+2024-08-01 21:45:58,556 - INFO - Configuration variable `stepmax`: None
+2024-08-01 21:45:58,556 - INFO - Configuration variable `sand_frac_bc`: 0
+2024-08-01 21:45:58,556 - INFO - Configuration variable `clobber_netcdf`: True
+2024-08-01 21:45:58,556 - INFO - Configuration variable `legacy_netcdf`: False
+2024-08-01 21:45:58,556 - INFO - Configuration variable `vegetation`: True
+2024-08-01 21:45:58,556 - INFO - Configuration variable `save_veg_frac_figs`: False
+2024-08-01 21:45:58,556 - INFO - Configuration variable `p_veg_d_root`: 0.2
+2024-08-01 21:45:58,556 - INFO - Configuration variable `p_veg_d_stem`: 0.06
+2024-08-01 21:45:58,556 - INFO - Configuration variable `p_veg_K`: 800
+2024-08-01 21:45:58,556 - INFO - Configuration variable `p_veg_r`: 1
+2024-08-01 21:45:58,556 - INFO - Configuration variable `p_veg_est_flood_dur`: 3
+2024-08-01 21:45:58,556 - INFO - Configuration variable `p_veg_est_inter_dur`: 100
+2024-08-01 21:45:58,556 - INFO - Configuration variable `p_veg_est_depth`: 0.5
+2024-08-01 21:45:58,556 - INFO - Configuration variable `p_veg_est_roc`: 0.01
+2024-08-01 21:45:58,556 - INFO - Configuration variable `p_veg_est_init`: 0.05
+2024-08-01 21:45:58,556 - INFO - Random seed is: 1607826681 
+2024-08-01 21:45:58,556 - INFO - Setting other variables
+2024-08-01 21:45:58,556 - INFO - Setting model constants
+2024-08-01 21:45:58,556 - INFO - Creating model domain
+2024-08-01 21:45:58,567 - INFO - Initializing sediment routers
+2024-08-01 21:45:58,568 - INFO - Initializing subsidence
+2024-08-01 21:45:58,568 - INFO - Initializing output NetCDF4 file
+2024-08-01 21:45:58,573 - INFO - Saving data to output file: 00000
+2024-08-01 21:45:58,660 - INFO - Saving checkpoint
+2024-08-01 21:45:58,664 - INFO - Model initialization complete
+2024-08-01 21:45:58,664 - INFO - Time: 0.0; timestep: 0
+2024-08-01 21:46:48,526 - INFO - Time: 13636.4; timestep: 1
+2024-08-01 21:46:48,843 - INFO - Time: 27272.7; timestep: 2
+2024-08-01 21:46:49,188 - INFO - Time: 40909.1; timestep: 3
+2024-08-01 21:46:49,531 - INFO - Time: 54545.5; timestep: 4
+2024-08-01 21:46:49,920 - INFO - Time: 68181.8; timestep: 5
+2024-08-01 21:46:49,920 - INFO - Finalize the model run
+2024-08-01 21:46:49,921 - INFO - Closed output NetCDF4 file

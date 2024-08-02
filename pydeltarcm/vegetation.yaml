@@ -1,0 +1,15 @@
+Length: 3000.
+Width: 6000.
+dx: 50
+verbose: 1
+N0_meters: 150
+L0_meters: 150
+Np_water: 500
+Np_sed: 500
+u0: 1.1
+h0: 4
+itermax: 2
+save_eta_grids: True
+save_eta_figs: True
+save_velocity_grids: True
+save_sandfrac_grids: True
