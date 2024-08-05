@@ -29,7 +29,7 @@ PyDeltaRCM is a parcel-based cellular flux routing and sediment transport model 
 
 
 
-**Contributors :** 
+**Contributors :** Madeline Kelley, Sara Karimaghaei, Swarna Chowdhury, Bart Van Westen, Sarah Brannum, Eleanor Henson. 
 
 
 
