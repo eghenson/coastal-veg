@@ -1,4 +1,4 @@
-# <center> Project Overview 
+# <Project Overview > 
 
 ## Vegetation Interaction with Sand Movement in Coastal Dynamics ##
 
