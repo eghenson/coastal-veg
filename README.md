@@ -7,8 +7,6 @@ Coastal environments are dynamic systems where natural processes move sediment t
 
 
 
-
-
 ## Overview of AeoLiS ## 
 **Model:** Aeolis is an open source, 2D depth average aeolian sediment transport model
 
@@ -17,7 +15,6 @@ Coastal environments are dynamic systems where natural processes move sediment t
 AeoLiS is a process-based model designed for simulating aeolian sediment transport, particularly in environments where supply-limiting factors are significant, such as coastal areas. It can simulate various surface configurations, including moisture, shells, vegetation, and non-erodible elements. The bed surface configuration influences aeolian sediment transport by altering both the sediment transport capacity and sediment availability.
 
 **Reference:** https://doi.org/10.1002/2015JF003692 
-
 
 
 
