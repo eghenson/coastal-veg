@@ -1,4 +1,4 @@
-# <p style="text-align: center;">Text with basic formatting applied</p> Project Overview
+# <p style="text-align: center;">Project Overview </p> 
 
 ## Vegetation Interaction with Sand Movement in Coastal Dynamics ##
 
