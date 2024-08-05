@@ -13,7 +13,7 @@ Coastal environments are dynamic systems where natural processes move sediment t
 
 AeoLiS is a process-based model designed for simulating aeolian sediment transport, particularly in environments where supply-limiting factors are significant, such as coastal areas. It can simulate various surface configurations, including moisture, shells, vegetation, and non-erodible elements. The bed surface configuration influences aeolian sediment transport by altering both the sediment transport capacity and sediment availability.
 
-**Reference:** https://doi.org/10.1002/2015JF003692 
+**Reference:** *https://doi.org/10.1002/2015JF003692* 
 
 
 
@@ -25,7 +25,7 @@ AeoLiS is a process-based model designed for simulating aeolian sediment transpo
 
 PyDeltaRCM is a parcel-based cellular flux routing and sediment transport model that can simulate the planform evaluation due to sediment movement and vegetation model. It is a  reduced-complexity model (RCM), different from the process-based morphodynamic models based on detailed computational fluid dynamics by employing stochastic parcel-based cellular routing schemes for water and sediment transport. The model requires different parameters and variables as input including topography, flow discharge, bed roughness and produces outputs including depth-averaged flow field, water surface elevation and evolving bed topography. 
 
-**Reference:** https://doi.org/10.21105/joss.03398  
+**Reference:** *https://doi.org/10.21105/joss.03398*  
 
 
 
